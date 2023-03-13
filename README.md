@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm Rob Hitt
+
+I'm always trying to learn too many things at once.  
 
 <!--
 **robhittme/robhittme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
