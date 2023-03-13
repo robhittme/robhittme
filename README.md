@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 I'm Rob Hitt
 
 I'm always trying to learn too many things at once. I'm a software engineer with experience in TypeScript, Node.js, PostgreSQL, and Golang. 
