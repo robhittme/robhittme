@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Rob Hitt
 
-I'm always trying to learn too many things at once.  
+I'm always trying to learn too many things at once. I'm a software engineer with experience in TypeScript, Node.js, PostgreSQL, and Golang. 
 
 <!--
 **robhittme/robhittme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
