@@ -3,7 +3,7 @@ I'm Rob Hitt
 
 I'm in the process of trying to learn too many things at once. I'm a software engineer with experience in TypeScript, Node.js, PostgreSQL, and Golang. 
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,postgres,go,ansible,aws,babel,bash,docker,firebase,git,graphql,jest,typescript,lua,mysql,neovim,nginx,prisma,py,react,redis,sequelized, html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,postgres,go,ansible,aws,babel,bash,docker,firebase,git,graphql,jest,typescript,lua,mysql,neovim,nginx,prisma,py,react,redis,sequelized,html,css)](https://skillicons.dev)
 
 
 <!--
