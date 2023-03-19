@@ -3,6 +3,8 @@ I'm Rob Hitt
 
 I'm in the process of trying to learn too many things at once. I'm a software engineer with experience in TypeScript, Node.js, PostgreSQL, and Golang. 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robhittme)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **robhittme/robhittme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
