@@ -1,9 +1,9 @@
 ### Hi 👋
 I'm Rob Hitt
 
-I'm in the process of trying to learn too many things at once. I'm a software engineer with experience in TypeScript, Node.js, PostgreSQL, and Golang. 
+I'm in the process of trying to learn too many things at once. I'm a software engineer with experience predominantly in TypeScript, Node.js, PostgreSQL, and Golang. 
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,typescript,go,postgres,py,ansible,aws,bash,docker,firebase,git,graphql,mysql,nginx,prisma,react,redis,sequelize,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,typescript,go,postgres,py,aws,docker,git,graphql,firebase,mysql,prisma,react,redis,nginx,bash,ansible,html,css)](https://skillicons.dev)
 
 
 <!--
